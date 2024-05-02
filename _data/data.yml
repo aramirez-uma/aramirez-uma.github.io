@@ -1,0 +1,160 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: right # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Aurora Ramírez
+    tagline: Assistant Professor
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: aurora.ramirez[at]uma.es
+    phone: #012 345 6789
+    timezone: #America/Cancun Timezone
+    citizenship:
+    website: #blog.webjeda.com #do not add http://
+    linkedin: #alandoe
+    xing: #alandoe
+    github: #sharu725
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@aurora_rq'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: #http://www.africau.edu/images/default/sample.pdf
+
+    #languages:
+    #  title: Languages
+    #  info:
+    #    - idiom: English
+    #      level: Native
+
+    #    - idiom: French
+    #      level: Professional
+
+    #    - idiom: Spanish
+    #      level: Professional
+
+    #interests:
+    #  title: Interests
+    #  info:
+    #    - item: Climbing
+    #      link:
+
+    #    - item: Snowboarding
+    #      link:
+
+    #    - item: Cooking
+    #      link:
+
+career-profile:
+    title: Assitant Professor (University of Málaga). PhD. in Advanced Computing (University of Córdoba).
+    summary: |
+      Short bio here.
+
+education:
+    title: Education
+    info:
+      - degree: PhD in Advanced Computing
+        university: University of Córdoba
+        time: 2013 - 2018
+        details: |
+          Describe your study here...
+            - Bullet point
+            - Bullet point
+      - degree: MSc in Intelligent Systems
+        university: University of Córdoba
+        time: 2012 - 2013
+        details: |
+          Describe your study here 
+      - degree: BSc in Computer Science
+        university: University of Córdoba
+        time: 2007 - 2012
+        details: |
+          Describe your study here 
+
+experiences:
+    title: Experiences
+    info:
+      - role: Assistant Professor
+        time: 2024 - Present
+        company: University of Málaga, Spain
+        details: |
+          Describe your role here 
+      - role: Postdoc Researcher
+        time: 2019 - 2023
+        company: University of Córdoba, Spain
+        details: |
+          Describe your role here
+      - role: Postdoc Researcher
+        time: 2018 - 2019
+        company: University of Málaga, Spain
+        details: |
+          Describe your role here 
+      - role: PhD Student (FPU contract)
+        time: 2014 - 2018
+        company: University of Córdoba, Spain
+        details: |
+          Describe your role
+
+
+projects:
+    title: Projects
+    intro: >
+      List of research projects, contracts and collaborative networks in which I have participated.
+    assignments:
+      - title: GESTService 
+        link: "#"
+        tagline: "Intelligent data-driven mobility services for international car rental companies (CPP2022-010081)."
+
+      - title: AI4Software
+        link: "#"
+        tagline: "Research network on artificial intelligence applied to the software development process (RED2022-134647-T)."
+
+      - title: GENIA
+        link: "#"
+        tagline: "Studying gender biases in machine learning models using explainable artificial intelligence (UCOImpulsa 2022)."
+
+      - title: INTENSE
+        link: "#"
+        tagline: "Improving data science users' experience with computational intelligence (PID2020-115832GB-I00)."
+
+publications:
+    title: Publications
+    intro: |
+      List of most relevant publications.
+    papers:
+      - title: Grammar-based evolutionary approach for automated workflow composition with domain-specific operators and ensemble diversity
+        link: "#"
+        authors: R. Barbudo, A. Ramírez, J.R. Romero
+        conference: Applied Soft Computing, vol. 153, article 111292, 2024.
+
+      - title: Artificial intelligence to automate the systematic review of scientific literature
+        link: "#"
+        authors: J. De la Torre-López, A. Ramírez, J.R. Romero
+        conference: Computing, vol. 105, pp. 2171-2194, 2023.
+
+      - title: An experimental comparison of metaheuristic frameworks for multi-objective optimization
+        link: "#"
+        authors: A. Ramírez, R. Barbudo, J.R. Romero
+        conference: Expert Systems, vol. 40(4), article e12672, 2023.
+
+      - title: InterEvo-TR: Interactive Evolutionary Test Generation with Readability Assessment
+        link: "#"
+        authors: P. Delgado-Pérez, A. Ramírez, K. Valle-Gómez, I. Medina-Bulo, J.R. Romero
+        conference: IEEE Transactions on Software Engineering, vol. 49(4), pp. 2580-2596, 2023.
+
+      - title: A Taxonomy of Information Attributes for Test Case Prioritisation: Applicability, Machine Learning
+        link: "#"
+        authors: A. Ramírez, R. Feldt, J.R. Romero
+        conference: ACM Transactions on Software Engineering and Methodology, vol.31(1), Article No.:21, pp.1-42, 2023
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
